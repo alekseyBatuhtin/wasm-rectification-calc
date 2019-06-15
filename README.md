@@ -1,3 +1,4 @@
 # Road map
 
-1. [] Create environment 
+1. Prepare to work
+- [ ] Create environment 
